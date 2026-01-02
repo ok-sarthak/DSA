@@ -1,1 +1,0 @@
-//Ignore this file, it is just a sample file for creating folders structure.
