@@ -1,3 +1,5 @@
+// With Memo: T.C = O(m*n), S.C = O(m*n)
+// Without Memo: T.C = Exponential, because of two opportunities for each character, S.C = O(m+n) for recursion stack
 class Solution {
 public:
 
