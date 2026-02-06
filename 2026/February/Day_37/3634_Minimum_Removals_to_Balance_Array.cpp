@@ -1,4 +1,4 @@
-// T.C: O(n log n + 2 * n) = O(n log n)
+// T.C: O(n log n + 2 * n) = O(n log n) because of sorting and two pointer traversal
 // S.C: O(1)
 class Solution {
 public:
