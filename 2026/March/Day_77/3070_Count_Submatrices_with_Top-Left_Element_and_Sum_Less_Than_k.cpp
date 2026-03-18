@@ -29,7 +29,7 @@ public:
 };
 
 
-//Approach - 2:Using precomputed results
+//Approach - 2: Using precomputed results
 //T.C: O(m*n)
 //S.C: O(1)
 class Solution {
