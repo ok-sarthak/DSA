@@ -1,3 +1,6 @@
+//Approach: Recursion + Memoization + Binary Search
+//T.C : O(n * log(w) + nlogn + wlogw), n = robots.size(), w = walls.size()
+//S.C : O(n)
 class Solution {
 public:
 
